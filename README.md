@@ -194,7 +194,7 @@ Username: george/node1 Password: hadoop
 Now you have Authenticated two users jobin and george to access NiFi User Interface.
 
 Hope this will be useful !!
-
+* You can also Refer My Hortonworks Community Connection Article [Here](https://community.hortonworks.com/articles/34147/nifi-security-user-authentication-with-kerberos.html)
 Thanks,
 
 Jobin George
